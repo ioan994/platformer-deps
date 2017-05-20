@@ -44,9 +44,6 @@ temp/
 examples/Game/*/proj.cmake/build/
 examples/HelloWorld/build_helloworld_*
 examples/Match3/build_match3_*
-libs/SDL2main.lib
-libs/SDL2.lib
-libs/SDL2.dll
 libs/libSDL2.a
 libs/libSDL2.dll.a
 libs/libSDL2main.a
